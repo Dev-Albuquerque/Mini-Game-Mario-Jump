@@ -24,7 +24,7 @@
       if (Pipeposition <= 120 && Pipeposition > 0 && MarioPosition < 80) {
 
    
-        Mario.src = './Images/Death.webp'
+        Mario.src = './Images/death.webp'
         Mario.style.width = '70px'
         Mario.style.marginLeft = '50px'
         
