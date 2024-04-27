@@ -25,7 +25,7 @@
 
    
         Mario.src = './Images/Death.webp'
-        Mario.style.width = '85px'
+        Mario.style.width = '70px'
         Mario.style.marginLeft = '50px'
         
         Pipe.style.animation = 'none';
